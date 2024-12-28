@@ -1,0 +1,4 @@
+1000.50, 12, 99 Gretzky Way, Toronto, T6V7H3, 1, residence, RNT123
+1500.00, 24, 1500 Railway Avenue, Richmond, V9V5V4, 2, commercial, RNT456
+250.00, 12, 123 Maple Street, Toronto, T1A1B1, 1, residence, RNT789
+275.00, 18, 456 Oak Avenue, Richmond, V7V1V1, 2, commercial, RNT101
