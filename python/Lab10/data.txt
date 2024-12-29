@@ -1,0 +1,8 @@
+book order
+title=War and Peace
+author=Leo Tolstoy
+isbn=9780140447934
+year_pub=2022
+quantity=5
+cost_cad=$12.50
+unit_cost=$2.50

@@ -1,0 +1,8 @@
+book order
+title=Intro to Python
+author=Bill Smith
+isbn=12345
+year_pub=2000
+quantity=10
+cost_cad=$100.45
+unit_cost=$10.04
