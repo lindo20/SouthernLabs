@@ -1,0 +1,254 @@
+afghanistan
+kabul
+tirana (tirane)
+andorra
+andorra la vella
+angola
+argentina
+yerevan
+canberra
+baku
+bahamas
+manama
+bangladesh
+dhaka
+barbados
+bridgetown
+belarus
+minsk
+brussels
+belize
+belmopan
+benin
+porto novo
+bhutan
+thimphu
+sucre
+sarajevo
+botswana
+gaborone
+brazil
+bandar seri begawan
+burkina faso
+burundi
+gitega
+phnom penh
+canada
+ottawa
+cape verde
+central african republic
+chad
+n'djamena
+chile
+china
+bogota
+comoros
+moroni
+congo, democratic republic of the
+kinshasa
+congo, republic of the
+brazzaville
+costa rica
+san jose
+zagreb
+cuba
+havana
+cyprus
+denmark
+copenhagen
+dominica
+dominican republic
+santo domingo
+dili
+egypt
+el salvador
+san salvador
+england
+london
+malabo
+asmara
+tallinn
+eswatini (swaziland)
+mbabana
+addis ababa
+palikir
+fiji
+suva
+finland
+helsinki
+france
+paris
+gabon
+libreville
+banjul
+tbilisi
+germany
+berlin
+ghana
+accra
+athens
+grenada
+conakry
+guyana
+honduras
+tegucigalpa
+hungary
+budapest
+iceland
+reykjavik
+new delhi
+jakarta
+iran
+tehran
+iraq
+baghdad
+ireland
+dublin
+jerusalem
+italy
+rome
+kingston
+japan
+tokyo
+jordan
+amman
+kazakhstan
+nur-sultan
+kenya
+kiribati
+tarawa atoll
+kosovo
+pristina
+kyrgyzstan
+bishkek
+riga
+lebanon
+lesotho
+maseru
+libya
+tripoli
+vaduz
+madagascar
+antananarivo
+malawi
+lilongwe
+maldives
+male
+mali
+bamako
+malta
+valletta
+marshall islands
+majuro
+mexico
+mexico city
+moldova
+monaco
+monaco
+montenegro
+podgorica
+morocco
+rabat
+maputo
+myanmar (burma)
+nay pyi taw
+nepal
+kathmandu
+netherlands
+amsterdam
+wellington
+niger
+abuja
+pyongyang
+skopje
+northern ireland
+belfast
+norway
+oslo
+oman
+muscat
+pakistan
+islamabad
+panama
+panama city
+port moresby
+peru
+lima
+philippines
+manila
+poland
+warsaw
+portugal
+lisbon
+qatar
+doha
+bucharest
+moscow
+rwanda
+kigali
+basseterre
+kingstown
+san marino
+san marino
+riyadh
+scotland
+edinburgh
+senegal
+dakar
+belgrade
+seychelles
+singapore
+singapore
+bratislava
+ljubljana
+solomon islands
+mogadishu
+juba
+madrid
+sri lanka
+colombo
+sudan
+suriname
+paramaribo
+sweden
+stockholm
+switzerland
+bern
+damascus
+tajikistan
+dushanbe
+dodoma
+bangkok
+togo
+lome
+tonga
+nuku'alofa
+trinidad and tobago
+tunis
+turkey
+ankara
+turkmenistan
+ashgabat
+tuvalu
+funafuti
+uganda
+kampala
+united arab emirates
+abu dhabi
+united kingdom
+london
+united states
+washington d.c.
+uzbekistan
+tashkent
+port vila
+vatican city
+vatican city
+caracas
+wales
+cardiff
+yemen
+sana'a
+lusaka
+zimbabwe
+harare

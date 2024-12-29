@@ -1,0 +1,218 @@
+afghanistan
+algiers
+luanda
+canberra
+vienna
+azerbaijan
+baku
+nassau
+manama
+dhaka
+belize
+porto novo
+thimphu
+bolivia
+sucre
+bosnia and herzegovina
+sarajevo
+botswana
+gaborone
+brasilia
+brunei
+bulgaria
+sofia
+burkina faso
+burundi
+gitega
+cambodia
+yaounde
+canada
+cape verde
+praia
+bangui
+n'djamena
+chile
+santiago
+china
+colombia
+bogota
+moroni
+congo, democratic republic of the
+kinshasa
+congo, republic of the
+brazzaville
+costa rica
+san jose
+yamoussoukro
+croatia
+cuba
+havana
+nicosia
+prague
+djibouti
+djibouti
+dominica
+roseau
+santo domingo
+east timor
+dili
+ecuador
+quito
+egypt
+cairo
+el salvador
+england
+malabo
+mbabana
+federated states of micronesia
+fiji
+suva
+helsinki
+france
+libreville
+gambia
+georgia
+tbilisi
+ghana
+greece
+athens
+grenada
+guatemala
+guinea
+guinea-bissau
+bissau
+guyana
+haiti
+port au prince
+tegucigalpa
+iceland
+new delhi
+jakarta
+iran
+iraq
+ireland
+israel
+italy
+rome
+jamaica
+tokyo
+amman
+kenya
+nairobi
+kiribati
+kosovo
+pristina
+vientiane
+latvia
+riga
+lesotho
+maseru
+liberia
+monrovia
+libya
+tripoli
+lithuania
+malawi
+lilongwe
+malaysia
+male
+mali
+bamako
+malta
+valletta
+majuro
+mauritania
+mexico
+moldova
+chisinau
+monaco
+monaco
+mongolia
+ulaanbaatar
+montenegro
+podgorica
+morocco
+mozambique
+maputo
+namibia
+nauru
+kathmandu
+amsterdam
+nicaragua
+managua
+nigeria
+north korea
+skopje
+oman
+islamabad
+palau
+panama
+papua new guinea
+asuncion
+peru
+lima
+manila
+doha
+romania
+russia
+rwanda
+kigali
+basseterre
+saint lucia
+samoa
+san marino
+san marino
+sao tome and principe
+sao tome
+saudi arabia
+edinburgh
+serbia
+belgrade
+victoria
+sierra leone
+singapore
+singapore
+slovakia
+bratislava
+slovenia
+ljubljana
+honiara
+somalia
+mogadishu
+south africa
+south korea
+juba
+sri lanka
+colombo
+suriname
+paramaribo
+syria
+taipei
+dushanbe
+tanzania
+dodoma
+togo
+lome
+tonga
+nuku'alofa
+trinidad and tobago
+tunisia
+ashgabat
+tuvalu
+funafuti
+kampala
+united arab emirates
+united kingdom
+united states
+uruguay
+montevideo
+uzbekistan
+vanuatu
+port vila
+venezuela
+hanoi
+sana'a
+zambia
+lusaka
+zimbabwe
+harare

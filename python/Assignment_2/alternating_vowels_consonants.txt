@@ -1,0 +1,189 @@
+algiers
+andorra la vella
+luanda
+canberra
+vienna
+baku
+manama
+dhaka
+porto novo
+thimphu
+sucre
+sarajevo
+gaborone
+gitega
+yaounde
+ottawa
+n'djamena
+santiago
+bogota
+moroni
+kinshasa
+brazzaville
+san jose
+yamoussoukro
+havana
+djibouti
+santo domingo
+dili
+quito
+cairo
+malabo
+asmara
+mbabana
+addis ababa
+suva
+helsinki
+libreville
+tbilisi
+accra
+athens
+port au prince
+tegucigalpa
+new delhi
+jakarta
+rome
+tokyo
+amman
+nairobi
+pristina
+vientiane
+riga
+maseru
+tripoli
+antananarivo
+lilongwe
+male
+bamako
+valletta
+majuro
+monaco
+ulaanbaatar
+podgorica
+maputo
+kathmandu
+amsterdam
+abuja
+skopje
+oslo
+islamabad
+asuncion
+lima
+manila
+doha
+kigali
+basseterre
+apia
+san marino
+sao tome
+edinburgh
+belgrade
+singapore
+bratislava
+ljubljana
+honiara
+mogadishu
+juba
+colombo
+paramaribo
+dushanbe
+dodoma
+lome
+nuku'alofa
+ankara
+ashgabat
+funafuti
+kampala
+abu dhabi
+port vila
+lusaka
+harare
+afghanistan
+albania
+algeria
+andorra
+angola
+antigua and barbuda
+argentina
+armenia
+azerbaijan
+belize
+bosnia and herzegovina
+botswana
+burkina faso
+burundi
+canada
+cape verde
+chile
+china
+congo, democratic republic of the
+congo, republic of the
+costa rica
+cuba
+djibouti
+dominica
+ecuador
+egypt
+el salvador
+england
+equatorial guinea
+eritrea
+estonia
+eswatini (swaziland)
+ethiopia
+fiji
+france
+ghana
+greece
+grenada
+guatemala
+guyana
+haiti
+iceland
+india
+indonesia
+iran
+iraq
+ireland
+israel
+italy
+jamaica
+kenya
+kiribati
+kosovo
+lesotho
+libya
+malawi
+mali
+malta
+mexico
+moldova
+monaco
+montenegro
+morocco
+nauru
+oman
+panama
+peru
+rwanda
+san marino
+sao tome and principe
+sierra leone
+singapore
+south africa
+sri lanka
+suriname
+togo
+tonga
+trinidad and tobago
+tuvalu
+uganda
+ukraine
+united arab emirates
+united kingdom
+united states
+uruguay
+uzbekistan
+vanuatu
+venezuela
+zimbabwe

@@ -1,0 +1,63 @@
+tirana (tirane)
+algiers
+buenos aires
+vienna
+bridgetown
+belize
+bosnia and herzegovina
+bandar seri begawan
+gitega
+central african republic
+chile
+congo, democratic republic of the
+congo, republic of the
+brazzaville
+cote d'ivoire (ivory coast)
+czech republic (czechia)
+dominican republic
+equatorial guinea
+eritrea
+federated states of micronesia
+libreville
+saint george's
+guinea
+guinea-bissau
+port au prince
+iceland
+indonesia
+ireland
+israel
+bishkek
+vientiane
+liberia
+liechtenstein
+lilongwe
+maldives
+mozambique
+windhoek
+niger
+niamey
+nigeria
+north macedonia (macedonia)
+northern ireland
+papua new guinea
+philippines
+saint kitts and nevis
+castries
+saint vincent and the grenadines
+sao tome and principe
+sierra leone
+singapore
+singapore
+pretoria, bloemfontein, cape town
+suriname
+switzerland
+taipei
+ukraine
+kiev
+united arab emirates
+united kingdom
+united states
+montevideo
+vietnam
+zimbabwe

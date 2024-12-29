@@ -1,0 +1,126 @@
+kabul
+tirana (tirane)
+yerevan
+vienna
+thimphu
+gaborone
+gitega
+yaounde
+kinshasa
+yamoussoukro
+zagreb
+havana
+roseau
+quito
+tallinn
+federated states of micronesia
+fiji
+finland
+helsinki
+france
+gabon
+gambia
+georgia
+tbilisi
+germany
+ghana
+greece
+grenada
+guatemala
+guatemala city
+guinea
+guinea-bissau
+guyana
+georgetown
+haiti
+honduras
+tegucigalpa
+hungary
+iceland
+reykjavik
+india
+indonesia
+jakarta
+iran
+tehran
+iraq
+ireland
+israel
+jerusalem
+italy
+rome
+jamaica
+kingston
+japan
+tokyo
+jordan
+kazakhstan
+kenya
+kiribati
+tarawa atoll
+kosovo
+kuwait
+kuwait city
+kyrgyzstan
+vientiane
+riga
+tripoli
+vaduz
+vilnius
+kuala lumpur
+valletta
+ulaanbaatar
+rabat
+windhoek
+kathmandu
+wellington
+islamabad
+warsaw
+qatar
+romania
+russia
+rwanda
+kigali
+kingstown
+riyadh
+victoria
+freetown
+honiara
+juba
+khartoum
+taiwan
+taipei
+tajikistan
+tanzania
+thailand
+togo
+tonga
+trinidad and tobago
+tunisia
+tunis
+turkey
+turkmenistan
+tuvalu
+funafuti
+uganda
+kampala
+ukraine
+kiev
+united arab emirates
+united kingdom
+united states
+washington d.c.
+uruguay
+uzbekistan
+tashkent
+vanuatu
+vatican city
+vatican city
+venezuela
+vietnam
+hanoi
+wales
+yemen
+zambia
+zimbabwe
+harare
